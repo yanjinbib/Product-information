@@ -1,4 +1,4 @@
- ![](C:\Users\yanjinbin\Desktop\Product-information\UC-001\ultra-logo.png)
+ ![](../UC-001/ultra-logo.png)
 
 ![](../UC-001/ultra-overview.png)
 

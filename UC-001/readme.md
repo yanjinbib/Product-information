@@ -42,8 +42,6 @@ Chameleon Ultra основан на открытом проекте **Chameleon 
 
 **Клиенты для iOS и Mac:** Найдите графический интерфейс Chameleon Ultra GUI App Store.
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1cGC3Y2Ebj&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 ## 3.Чтение карт
 
 В настоящее время в основном используются следующие типы карт:  **ID-карта** , **IC-карта** и **CPU-карта**.

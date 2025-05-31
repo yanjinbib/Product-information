@@ -14,39 +14,39 @@
 
 1.В качестве примера возьмём IC-карту. Считайте карту, которую нужно взломать, и нажмите "Сохранить UID".
 
-![](C:\Users\yanjinbin\Desktop\Product-information\UC-001\Расширенное%20руководство%20по%20работе%20с%20Chameleon\JPG\1.png)
+![](../UC-002/1.png)
 
 2.Добавьте карту для взлома в соответствующий слот.
 
-![](C:\Users\yanjinbin\AppData\Roaming\marktext\images\2025-05-31-20-17-16-image.png)
+![](../UC-002/2.png)
 
-![](C:\Users\yanjinbin\AppData\Roaming\marktext\images\2025-05-31-20-17-41-image.png)
+![](../UC-002/3.png)
 
-![](C:\Users\yanjinbin\AppData\Roaming\marktext\images\2025-05-31-20-18-47-5.png)
+![](../UC-002/4.png)
 
 3.Нажмите "Настройки", активируйте "Сбор случайных чисел" и сохраните настройки.
 
-![](C:\Users\yanjinbin\AppData\Roaming\marktext\images\2025-05-31-20-20-08-image.png)
+![](../UC-002/6.png)
 
-![](C:\Users\yanjinbin\AppData\Roaming\marktext\images\2025-05-31-20-24-07-7.png)
+![](../UC-002/7.png)
 
 4.Переключите Chameleon на соответствующий слот и поднесите к считывателю 3-4 раза.
 
-![](C:\Users\yanjinbin\AppData\Roaming\marktext\images\2025-05-31-20-25-14-image.png)
+![](../UC-002/12.png)
 
 5.Снова откройте настройки слота - под опцией "Сбор случайных чисел" появится возможность получить ключи.
 
-![](C:\Users\yanjinbin\AppData\Roaming\marktext\images\2025-05-31-20-27-38-image.png)
+![](../UC-002/9.png)![](C:\Users\yanjinbin\Desktop\Product-information\UC-002\8.png)
 
 6.Нажмите "Получить ключи", затем "Получить ключи из случайных чисел" для начала расшифровки.
 
 7.Расшифрованные ключи появятся на экране. Вы можете сохранить их в нужный словарь.
 
-![](C:\Users\yanjinbin\AppData\Roaming\marktext\images\2025-05-31-20-33-21-image.png)
+![](../UC-002/10.png)
 
 8.Снова считайте карту, выберите словарь с сохранёнными ключами и нажмите "Проверить ключи из словаря" для успешного взлома карты.
 
-![](C:\Users\yanjinbin\AppData\Roaming\marktext\images\2025-05-31-20-37-12-image.png)
+![](../UC-002/11.png)
 
 ![](C:\Users\yanjinbin\AppData\Roaming\marktext\images\2025-05-31-20-38-02-image.png)
 
